@@ -1,11 +1,11 @@
 img {
     margin: 0 auto;
     display: block;
-    width: 700px;
-    height: 600px;
-    border:black;
+    width: 1700px;
+    height: 1500px;
+    border: black;
     border: 30px solid;
     border-image: url(assets/codingcertificate.jpg) 30 round;
-    margin-top: 50px;
+    margin-top: 100px;
 }
 
